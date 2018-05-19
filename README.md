@@ -1,1 +1,1 @@
-# installs
+#installs for macs
